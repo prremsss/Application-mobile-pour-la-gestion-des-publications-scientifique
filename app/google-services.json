@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22155129753",
+    "project_id": "biblioscience-fe650",
+    "storage_bucket": "biblioscience-fe650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22155129753:android:1234600df82d6c99585908",
+        "android_client_info": {
+          "package_name": "com.example.biblioscience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22155129753-4d95c32jcm8bkgntldei0h7e2804o9ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4dPiroR7U3AmGR6w1sJlSEf4-mGRe8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22155129753-4d95c32jcm8bkgntldei0h7e2804o9ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
