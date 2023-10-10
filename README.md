@@ -1,0 +1,7 @@
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/f222b7f5-3cc9-4dfd-8848-ba61327016b9)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/d3b806d4-fde7-4fee-9872-2bcf39ce89bf)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/a48b7711-747a-46bc-9865-78f4ede08b4f)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/ff25464e-df5b-4741-a7f5-b30de0933882)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/9195f6cf-839b-4eac-91e5-fc8a5da21d69)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/26830cba-e4d9-4016-bdad-42f5dbd74f7c)
+![image](https://github.com/prremsss/Application-mobile-pour-la-gestion-des-publications-scientifique/assets/31516436/602ce9ce-0844-40ad-bb21-9d133c0a44c4)
